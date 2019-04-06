@@ -1,0 +1,448 @@
+body{
+    background-color:#ebebeb;
+    min-width: 1440px;
+    height : 2560px;
+}
+
+.container{
+    width: 750px;
+    height: 1260px;
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+
+.badan{
+    width: 750px;
+    height: 1183px;
+    background-color: #ffffff;
+}
+
+.header{
+    width: 750px;
+    height: 50px;
+    background-color: #968484;
+}
+
+.kepala{
+    width: 150px;
+    height: 25px;
+    background-color: #ffffff;
+    float: left;
+    margin: 12px;
+}
+
+.kepalakanan{
+    width: 65px;
+    height: 12px;
+    background-color: #ffffff;
+    float: right;
+    margin: 18px;
+}
+
+.kepalakanan2{
+    width: 65px;
+    height: 12px;
+    background-color: #ffffff;
+    float: right;
+    margin-top: 18px;
+}
+
+.kepalakanan3{
+    width: 65px;
+    height: 12px;
+    background-color: #ffffff;
+    float: right;
+    margin-top: 18px;
+    margin-right: 15px;
+}
+
+.bilahsampingkiri{
+    width: 390px;
+    height: 300px;
+    background-color: #ebebeb;
+    margin: 12px;
+    float: left;
+}
+
+.bilahsampingutama{
+    width: 65px;
+    height: 60px;
+    background-color: #ebebeb;
+    float: left;
+    margin: 12px;    
+}
+
+.bilahsampingutama2{
+    width: 65px;
+    height: 60px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 80px;    
+}
+
+.bilahsampingutama3{
+    width: 65px;
+    height: 60px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 20px;        
+}
+
+.bilahsampingkanan{
+    width: 230px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 13px;
+    margin-right: 16px;
+}
+
+.bilahsampingkanan2{
+    width: 130px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 15px;
+    margin-right: 100px;
+}
+
+.bilahsampingkanan3{
+    width: 230px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 55px;
+    margin-right: 0px;
+}
+
+.bilahsampingkanan4{
+    width: 130px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 5px;
+    margin-right: 100px;
+    clear: both;
+}
+
+.self{
+    width: 220px;
+    height: 100px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 323px;
+    margin-right: 25px;
+}
+
+.masukkan{
+    width: 190px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 110px;
+    margin-right: 12px;  
+}
+
+.masukkan2{
+    width: 95px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 5px;
+    margin-right: 107px;  
+}
+
+.self2{
+    width: 220px;
+    height: 100px;
+    background-color: #ebebeb;
+    margin-top: 345px;
+    margin-left: 260px;
+}
+
+.masukkan3{
+    width: 190px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 8px;
+    margin-right: 12px;  
+}
+
+.masukkan4{
+    width: 95px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 5px;
+    margin-right: 107px;  
+}
+
+.self3{
+    width: 220px;
+    height: 100px;
+    background-color: #ebebeb;
+    float: right;
+    margin-right: 250px;
+}
+
+.masukkan5{
+    width: 190px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 1px;
+    margin-right: 255px;  
+}
+
+
+.masukkan6{
+    width: 95px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 5px;
+    margin-right: 350px;  
+}
+
+.center{
+    width: 65px;
+    height: 12px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 40px;
+    margin-left: 12px;
+}
+
+.line{
+    width: 405px;
+    height: 1px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 36px;
+}
+
+.kanan{
+    width: 220px;
+    height: 185px;
+    background-color: #968484;
+    float: right;
+    margin: 20px;
+}
+
+.kanan2{
+    width: 70px;
+    height: 15px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 200px;
+    margin-right: 150px;
+}
+
+.line4{
+    width: 150px;
+    height: 1px;
+    background-color: #ebebeb;
+    float: right;
+}
+
+.kanan3{
+    width: 60px;
+    height: 50px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 10px;
+    margin-right:10px;
+}
+
+.after{
+    width: 150px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 5px;
+    margin-left: 70px;
+}
+
+.after2{
+    width: 100px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 5px;
+    margin-left: 70px;
+}
+
+.kanan4{
+    width: 60px;
+    height: 50px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 10px;
+}
+
+.after3{
+    width: 150px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 5px;
+    margin-left: 70px;
+}
+
+.after4{
+    width: 100px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 5px;
+    margin-left: 70px;
+}
+
+.kanan5{
+    width: 60px;
+    height: 50px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 15px;
+}
+
+.after5{
+    width: 150px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 5px;
+    margin-left: 70px;
+}
+
+.after6{
+    width: 100px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 5px;
+    margin-left: 70px;
+}
+
+.pertengahan{
+    width: 130px;
+    height: 100px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 25px;
+}
+
+.next{
+    width: 315px;
+    height: 15px;
+    background-color: #ebebeb;
+    float: left;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+.next2{
+    width: 315px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: left;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+
+.next3{
+    width: 315px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: left;
+    margin-left: 140px;
+    margin-top: 5px;
+}
+
+.line2{
+    width: 475px;
+    height: 1px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 10px;
+
+}
+
+.pertengahan2{
+    width: 130px;
+    height: 100px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 15px;
+}
+
+.side{
+    width: 315px;
+    height: 15px;
+    background-color: #ebebeb;
+    float: left;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+.side2{
+    width: 315px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: left;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+
+.side3{
+    width: 315px;
+    height: 10px;
+    background-color: #ebebeb;
+    float: left;
+    margin-left: 140px;
+    margin-top: 5px;
+}
+
+.line3{
+    width: 475px;
+    height: 1px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 10px;
+    clear: both;
+
+}
+
+.kaki{
+  width: 750px;
+  height: 80px;  
+  background-color: #968484;
+  float: left;
+
+}
+
+.infrontof{
+    width: 30px;
+    height: 30px;
+    background-color: #ebebeb;
+    float: left;
+    margin: 12px;
+}
+
+.geserkanan{
+    width: 200px;
+    height: 8px;
+    background-color: #ebebeb;
+    float: left;
+    margin-top: 18px;
+}
+
+.geserkanan2{
+    width: 80px;
+    height: 8px;
+    background-color: #ebebeb;
+    float: right;
+    margin-top: 3px;
+    margin-right: 616px;
+}
